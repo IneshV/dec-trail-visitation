@@ -1,0 +1,139 @@
+evaluation,model,location,trail_name,start_date,strava_trip_count,observed,predicted
+Ashokan High Point Trail,Seasonal baseline,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,144.44444444444446
+Ashokan High Point Trail,Seasonal baseline,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,144.44444444444446
+Ashokan High Point Trail,Seasonal baseline,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,107.5
+Ashokan High Point Trail,Seasonal baseline,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,175.0
+Ashokan High Point Trail,Seasonal baseline,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,179.0
+Ashokan High Point Trail,Seasonal baseline,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,240.5
+Ashokan High Point Trail,Strava only,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,128.25956627182484
+Ashokan High Point Trail,Strava only,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,150.15125119895194
+Ashokan High Point Trail,Strava only,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,126.57559050819968
+Ashokan High Point Trail,Strava only,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,106.36788134469774
+Ashokan High Point Trail,Strava only,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,170.3589603624539
+Ashokan High Point Trail,Strava only,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,166.9910088352036
+Ashokan High Point Trail,Strava + active edges,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,130.98596617415035
+Ashokan High Point Trail,Strava + active edges,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,152.38713343456007
+Ashokan High Point Trail,Strava + active edges,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,125.26602189452919
+Ashokan High Point Trail,Strava + active edges,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,111.54621033502454
+Ashokan High Point Trail,Strava + active edges,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,168.06835641534863
+Ashokan High Point Trail,Strava + active edges,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,162.51270211995802
+Ashokan High Point Trail,Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,112.64342335933881
+Ashokan High Point Trail,Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,121.01266691661742
+Ashokan High Point Trail,Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,97.87086945757369
+Ashokan High Point Trail,Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,124.34416663619271
+Ashokan High Point Trail,Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,145.4413669550881
+Ashokan High Point Trail,Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,177.76488643877798
+Ashokan High Point Trail,Log Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,103.87483137199935
+Ashokan High Point Trail,Log Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,103.29451771054202
+Ashokan High Point Trail,Log Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,91.72156476830213
+Ashokan High Point Trail,Log Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,126.90748605640329
+Ashokan High Point Trail,Log Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,122.4357799283288
+Ashokan High Point Trail,Log Strava + seasonality,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,147.5621049913302
+Ashokan High Point Trail,Random forest,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,145.7899445887447
+Ashokan High Point Trail,Random forest,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,161.0678003607504
+Ashokan High Point Trail,Random forest,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,95.14521053391049
+Ashokan High Point Trail,Random forest,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,142.6551439393941
+Ashokan High Point Trail,Random forest,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,170.87885339105335
+Ashokan High Point Trail,Random forest,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,159.91573571428563
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,370.0,47,93.0
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,160.0,68,114.0
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,70.0,59,141.0
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,60.0,74,141.0
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,200.0,157,135.5
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,250.0,121,148.0
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,390.0,144,123.0
+Pine Hill West Branch Trail,Seasonal baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,65.0,98,106.0
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,370.0,47,109.44999470495654
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,160.0,68,118.75088098568148
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,70.0,59,122.73697510599217
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,60.0,74,123.17987445269335
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,200.0,157,116.97928359887673
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,250.0,121,114.7647868653708
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,390.0,144,108.56419601155416
+Pine Hill West Branch Trail,Strava only,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,65.0,98,122.95842477934276
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,370.0,47,113.1230159817112
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,160.0,68,120.42696491351401
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,70.0,59,122.8424162142762
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,60.0,74,123.49997540136658
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,200.0,157,115.29488432011591
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,250.0,121,112.00708838466402
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,390.0,144,113.80937268355972
+Pine Hill West Branch Trail,Strava + active edges,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,65.0,98,121.92027388530309
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,370.0,47,72.33980506991372
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,160.0,68,78.42760289471754
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,70.0,59,103.02949559670401
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,60.0,74,84.82872647445359
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,200.0,157,79.08394980451833
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,250.0,121,78.67156613176093
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,390.0,144,56.67018051183511
+Pine Hill West Branch Trail,Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,65.0,98,68.32430329162963
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,370.0,47,74.63223689082844
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,160.0,68,77.6175551768562
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,70.0,59,91.42375753397022
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,60.0,74,81.60563927388218
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,200.0,157,75.64623772141145
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,250.0,121,77.20616071670355
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,390.0,144,66.15030102849697
+Pine Hill West Branch Trail,Log Strava + seasonality,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,65.0,98,69.84389612404519
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,370.0,47,97.25407294372299
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,160.0,68,100.59504357864355
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,70.0,59,110.2294738816739
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,60.0,74,118.18642655122653
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,200.0,157,99.73354992784995
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,250.0,121,98.68006197691197
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,390.0,144,99.88931673881676
+Pine Hill West Branch Trail,Random forest,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,65.0,98,106.74008056388057
+Vernooy Falls Trail,Seasonal baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,25.0,143,251.0
+Vernooy Falls Trail,Seasonal baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,170.0,329,429.0
+Vernooy Falls Trail,Seasonal baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,170.0,197,258.0
+Vernooy Falls Trail,Seasonal baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,155.0,2,133.5
+Vernooy Falls Trail,Seasonal baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,5.0,16,176.0
+Vernooy Falls Trail,Strava only,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,25.0,143,141.5848447544796
+Vernooy Falls Trail,Strava only,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,170.0,329,325.81873888660914
+Vernooy Falls Trail,Strava only,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,170.0,197,325.81873888660914
+Vernooy Falls Trail,Strava only,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,155.0,2,306.7600601832854
+Vernooy Falls Trail,Strava only,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,5.0,16,116.17327315004793
+Vernooy Falls Trail,Strava + active edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,25.0,143,146.06696781689303
+Vernooy Falls Trail,Strava + active edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,170.0,329,318.61525371589255
+Vernooy Falls Trail,Strava + active edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,170.0,197,319.01521989521467
+Vernooy Falls Trail,Strava + active edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,155.0,2,299.7172438081174
+Vernooy Falls Trail,Strava + active edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,5.0,16,123.53606246867359
+Vernooy Falls Trail,Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,25.0,143,200.67109109711026
+Vernooy Falls Trail,Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,170.0,329,417.7700382553539
+Vernooy Falls Trail,Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,170.0,197,359.8758921032746
+Vernooy Falls Trail,Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,155.0,2,233.59319733344952
+Vernooy Falls Trail,Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,5.0,16,81.96816312476787
+Vernooy Falls Trail,Log Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,25.0,143,203.9123879410508
+Vernooy Falls Trail,Log Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,170.0,329,425.3380584640338
+Vernooy Falls Trail,Log Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,170.0,197,324.23907082659434
+Vernooy Falls Trail,Log Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,155.0,2,192.88133957483888
+Vernooy Falls Trail,Log Strava + seasonality,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,5.0,16,110.48108191182278
+Vernooy Falls Trail,Random forest,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,25.0,143,197.1199357864356
+Vernooy Falls Trail,Random forest,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,170.0,329,326.5040992063492
+Vernooy Falls Trail,Random forest,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,170.0,197,314.20196111111125
+Vernooy Falls Trail,Random forest,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,155.0,2,296.3583347763348
+Vernooy Falls Trail,Random forest,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,5.0,16,142.11535707070706
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2023-11-01,120.0,102,85.12314330823767
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2024-01-01,75.0,59,86.07287004908541
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2024-02-01,70.0,92,70.5023027594068
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2024-03-01,80.0,103,89.31031818447457
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2024-05-01,5.0,161,118.15621055712847
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2024-09-01,15.0,127,55.250800519978995
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,79.83814616869044
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,73.00136612814669
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,71.27468494886136
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,103.60288062193906
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,128.93379450731874
+Pooled three trails,Pooled Strava + trail,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,187.32479704731037
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2023-11-01,120.0,102,71.10501249130893
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2024-01-01,75.0,59,66.07364710827039
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2024-02-01,70.0,92,53.962286620402956
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2024-03-01,80.0,103,58.93105125656676
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2024-05-01,5.0,161,64.43589613116768
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2024-09-01,15.0,127,31.65068333952191
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2024-10-01,75.0,260,57.383650687325265
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2024-12-01,140.0,53,53.716116913331874
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2025-03-01,70.0,83,42.942425842238904
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2025-05-01,10.0,72,51.93174203088041
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2025-06-01,200.0,160,77.26152936989556
+Pooled three trails,Pooled log model,Ashokan HP,Ashokan High Point Trail,2025-07-01,190.0,260,86.97691529324955

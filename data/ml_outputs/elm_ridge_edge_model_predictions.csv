@@ -1,0 +1,67 @@
+location,start_date,observed,predicted,feature_set,model
+Elm Ridge,2025-05-01,97.0,73.25024583212608,History only,Ridge
+Elm Ridge,2025-06-01,145.0,76.47808326718109,History only,Ridge
+Elm Ridge,2025-07-01,142.0,37533.86750604401,History only,Ridge
+Elm Ridge,2025-08-01,3305.0,44358.213613539825,History only,Ridge
+Elm Ridge,2025-09-01,2250.0,560468.3531708401,History only,Ridge
+Elm Ridge,2025-10-01,2435.0,1154305.3025555431,History only,Ridge
+Elm Ridge,2025-11-01,1421.0,53188.780796442246,History only,Ridge
+Elm Ridge,2025-12-01,560.0,146.63228495089044,History only,Ridge
+Elm Ridge,2026-01-01,675.0,55.462245248940484,History only,Ridge
+Elm Ridge,2026-02-01,507.0,57.60393126162046,History only,Ridge
+Elm Ridge,2026-03-01,708.0,54.58313560370498,History only,Ridge
+Elm Ridge,2025-05-01,97.0,40.55241187093144,History only,Random Forest
+Elm Ridge,2025-06-01,145.0,39.75764121791239,History only,Random Forest
+Elm Ridge,2025-07-01,142.0,109.0994218126369,History only,Random Forest
+Elm Ridge,2025-08-01,3305.0,137.5693175659629,History only,Random Forest
+Elm Ridge,2025-09-01,2250.0,1126.3112611489832,History only,Random Forest
+Elm Ridge,2025-10-01,2435.0,1178.0509267630569,History only,Random Forest
+Elm Ridge,2025-11-01,1421.0,1079.6054118686948,History only,Random Forest
+Elm Ridge,2025-12-01,560.0,96.60303877839594,History only,Random Forest
+Elm Ridge,2026-01-01,675.0,52.27611801013335,History only,Random Forest
+Elm Ridge,2026-02-01,507.0,46.77949657826828,History only,Random Forest
+Elm Ridge,2026-03-01,708.0,42.33426360292702,History only,Random Forest
+Elm Ridge,2025-05-01,97.0,51.421245234886236,History only,HistGradientBoosting
+Elm Ridge,2025-06-01,145.0,28.018725936242635,History only,HistGradientBoosting
+Elm Ridge,2025-07-01,142.0,704.9721279169406,History only,HistGradientBoosting
+Elm Ridge,2025-08-01,3305.0,1872.2521097043013,History only,HistGradientBoosting
+Elm Ridge,2025-09-01,2250.0,2209.705947798668,History only,HistGradientBoosting
+Elm Ridge,2025-10-01,2435.0,2249.4281396679617,History only,HistGradientBoosting
+Elm Ridge,2025-11-01,1421.0,1600.987619785027,History only,HistGradientBoosting
+Elm Ridge,2025-12-01,560.0,64.48588357182877,History only,HistGradientBoosting
+Elm Ridge,2026-01-01,675.0,64.43051851047827,History only,HistGradientBoosting
+Elm Ridge,2026-02-01,507.0,25.425026393732796,History only,HistGradientBoosting
+Elm Ridge,2026-03-01,708.0,25.425026393732796,History only,HistGradientBoosting
+Elm Ridge,2025-05-01,97.0,53.91707963429986,History + relevant Strava edges,Ridge
+Elm Ridge,2025-06-01,145.0,81.40489170833091,History + relevant Strava edges,Ridge
+Elm Ridge,2025-07-01,142.0,39877.78192354663,History + relevant Strava edges,Ridge
+Elm Ridge,2025-08-01,3305.0,67320.65951874074,History + relevant Strava edges,Ridge
+Elm Ridge,2025-09-01,2250.0,243653.55950086509,History + relevant Strava edges,Ridge
+Elm Ridge,2025-10-01,2435.0,674100.6156139055,History + relevant Strava edges,Ridge
+Elm Ridge,2025-11-01,1421.0,53018.22241784306,History + relevant Strava edges,Ridge
+Elm Ridge,2025-12-01,560.0,51.652886496268835,History + relevant Strava edges,Ridge
+Elm Ridge,2026-01-01,675.0,29.753411477027772,History + relevant Strava edges,Ridge
+Elm Ridge,2026-02-01,507.0,26.345367439880114,History + relevant Strava edges,Ridge
+Elm Ridge,2026-03-01,708.0,51.22044500369996,History + relevant Strava edges,Ridge
+Elm Ridge,2025-05-01,97.0,157.92115582211412,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-06-01,145.0,119.49386328876363,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-07-01,142.0,367.6040777097891,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-08-01,3305.0,432.6778002445726,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-09-01,2250.0,605.9404944296988,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-10-01,2435.0,604.7116624321285,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-11-01,1421.0,280.0603154119167,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-12-01,560.0,58.4843258348683,History + relevant Strava edges,Random Forest
+Elm Ridge,2026-01-01,675.0,67.2969893540407,History + relevant Strava edges,Random Forest
+Elm Ridge,2026-02-01,507.0,59.6435552678089,History + relevant Strava edges,Random Forest
+Elm Ridge,2026-03-01,708.0,721.904116123755,History + relevant Strava edges,Random Forest
+Elm Ridge,2025-05-01,97.0,42.21748366821498,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2025-06-01,145.0,42.21748366821498,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2025-07-01,142.0,377.02106088040085,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2025-08-01,3305.0,373.71745233132515,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2025-09-01,2250.0,373.71745233132515,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2025-10-01,2435.0,365.4234984672137,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2025-11-01,1421.0,363.8069218288211,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2025-12-01,560.0,29.275970109059134,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2026-01-01,675.0,41.260912754751836,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2026-02-01,507.0,41.260912754751836,History + relevant Strava edges,HistGradientBoosting
+Elm Ridge,2026-03-01,708.0,209.52424748489491,History + relevant Strava edges,HistGradientBoosting

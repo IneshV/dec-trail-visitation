@@ -1,0 +1,30 @@
+.DS_Store
+**/.DS_Store
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+~$*
+**/~$*
+
+# Local Python environments and installed packages
+.venv/
+venv/
+final code/.ml_packages/
+final code/.ml_packages_py311/
+
+# JavaScript dependencies and generated builds
+**/node_modules/
+DEC app/dist/
+DEC app/.next/
+DEC app/build/
+DEC app/.git-local-backup/
+
+# Large source Strava exports; notebooks reuse compact outputs instead
+State_model/daily/
+State_model/monthly/
+State_model/clean monthly/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example

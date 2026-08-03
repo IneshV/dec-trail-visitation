@@ -1,0 +1,225 @@
+evaluation,model,location,trail_name,start_date,observed,predicted
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2024-08-01,191,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2024-09-01,127,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2024-10-01,260,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2024-11-01,63,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2024-12-01,53,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-01-01,35,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-02-01,27,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-03-01,83,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-04-01,89,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-05-01,72,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-06-01,160,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-07-01,260,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-08-01,173,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-09-01,101,129.90697674418604
+Ashokan High Point Trail,Historical mean baseline,Ashokan HP,Ashokan High Point Trail,2025-10-01,117,129.90697674418604
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2024-08-01,191,161.0
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2024-09-01,127,153.33333333333334
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2024-10-01,260,175.0
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2024-11-01,63,99.66666666666667
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2024-12-01,53,75.0
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-01-01,35,75.5
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-02-01,27,78.75
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-03-01,83,86.5
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-04-01,89,120.0
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-05-01,72,177.75
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-06-01,160,157.5
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-07-01,260,202.5
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-08-01,173,161.0
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-09-01,101,153.33333333333334
+Ashokan High Point Trail,Seasonal historical baseline,Ashokan HP,Ashokan High Point Trail,2025-10-01,117,175.0
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2024-08-01,191,242.73999479121454
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2024-09-01,127,186.28701743607553
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2024-10-01,260,192.5595704755354
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2024-11-01,63,85.92616880471726
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2024-12-01,53,79.65361576525737
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-01-01,35,79.65361576525737
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-02-01,27,132.97031660066645
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-03-01,83,85.92616880471726
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-04-01,89,85.92616880471726
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-05-01,72,142.37914615985628
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-06-01,160,117.28893400201673
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-07-01,260,167.46935831769585
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-08-01,173,167.46935831769585
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-09-01,101,167.46935831769585
+Ashokan High Point Trail,Best single statewide edge,Ashokan HP,Ashokan High Point Trail,2025-10-01,117,217.64978263337497
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2024-08-01,191,208.49056925846384
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2024-09-01,127,168.1209311208603
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2024-10-01,260,200.33074878384184
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2024-11-01,63,101.12451038185867
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2024-12-01,53,73.68651755783736
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-01-01,35,68.91469271887712
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-02-01,27,60.325408008748724
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-03-01,83,80.9396913130569
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-04-01,89,87.38165484565322
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-05-01,72,130.32807839629527
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-06-01,160,141.92361275496864
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-07-01,260,199.04235607732258
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-08-01,173,224.81021020770783
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-09-01,101,174.99235888896303
+Ashokan High Point Trail,Mean of top 10 edges,Ashokan HP,Ashokan High Point Trail,2025-10-01,117,238.5530657439133
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2024-08-01,191,203.99711971910597
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2024-09-01,127,158.69145862574942
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2024-10-01,260,176.37817282815644
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2024-11-01,63,106.34452982024735
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2024-12-01,53,76.23830174565218
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-01-01,35,59.67096182552628
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-02-01,27,48.11462920431691
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-03-01,83,98.05023497796833
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-04-01,89,111.98175851333446
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-05-01,72,154.6871474458601
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-06-01,160,166.7889887374197
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-07-01,260,230.3642694117152
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-08-01,173,271.532174398262
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-09-01,101,233.06665336632244
+Ashokan High Point Trail,Ridge screened statewide edges,Ashokan HP,Ashokan High Point Trail,2025-10-01,117,219.66497984192344
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2024-08-01,191,203.79110637762207
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2024-09-01,127,163.76110304272876
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2024-10-01,260,176.48469546440288
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2024-11-01,63,106.08289114588264
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2024-12-01,53,79.6112950890681
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-01-01,35,76.05042537996607
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-02-01,27,75.22487681823154
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-03-01,83,99.94289971743308
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-04-01,89,116.39120129478871
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-05-01,72,156.2529005715764
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-06-01,160,169.27209191721855
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-07-01,260,238.41831138844998
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-08-01,173,277.39537579599005
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-09-01,101,238.14815718263836
+Ashokan High Point Trail,Elastic Net selected statewide edges,Ashokan HP,Ashokan High Point Trail,2025-10-01,117,221.97223222719134
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2024-08-01,191,122.63279369740987
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2024-09-01,127,98.42881558343439
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2024-10-01,260,120.77094922710405
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2024-11-01,63,122.63279369740987
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2024-12-01,53,144.97492734107954
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-01-01,35,122.63279369740987
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-02-01,27,122.63279369740987
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-03-01,83,118.90910475679826
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-04-01,89,122.63279369740987
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-05-01,72,96.56697111312857
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-06-01,160,167.31706098474922
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-07-01,260,163.5933720441376
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-08-01,173,122.63279369740987
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-09-01,101,122.63279369740987
+Ashokan High Point Trail,Existing 30 m trail-buffer edge model,Ashokan HP,Ashokan High Point Trail,2025-10-01,117,122.63279369740987
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,47,122.45833333333333
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,68,122.45833333333333
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,59,122.45833333333333
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,74,122.45833333333333
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,157,122.45833333333333
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,121,122.45833333333333
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,144,122.45833333333333
+Pine Hill West Branch Trail,Historical mean baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,98,122.45833333333333
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,47,93.0
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,68,114.0
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,59,141.0
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,74,150.5
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,157,135.5
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,121,148.0
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,144,134.0
+Pine Hill West Branch Trail,Seasonal historical baseline,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,98,106.0
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,47,127.71568627450979
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,68,127.71568627450979
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,59,127.71568627450979
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,74,106.68627450980392
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,157,127.71568627450979
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,121,127.71568627450979
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,144,127.71568627450979
+Pine Hill West Branch Trail,Best single statewide edge,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,98,106.68627450980392
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,47,105.84077874411562
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,68,105.84077874411562
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,59,118.36264091495471
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,74,119.9278736863096
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,157,113.35389604661907
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,121,105.84077874411562
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,144,115.23217537224494
+Pine Hill West Branch Trail,Mean of top 10 edges,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,98,113.35389604661907
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,47,104.47305016840195
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,68,106.39147141232765
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,59,108.0365939720873
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,74,129.8051710447211
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,157,155.24908320457723
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,121,109.49542953244487
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,144,125.8892177490357
+Pine Hill West Branch Trail,Ridge screened statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,98,116.42925974776783
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,47,91.62814472274455
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,68,77.91757853510916
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,59,69.85377758534177
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,74,117.28232416274537
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,157,180.70427387172106
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,121,100.80016857146013
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,144,128.18851813403072
+Pine Hill West Branch Trail,Elastic Net selected statewide edges,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,98,136.73249141526466
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-01-01,47,110.20155439213465
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-02-01,68,121.1253679842905
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-03-01,59,125.80700238092872
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-04-01,74,126.32718398055519
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-05-01,157,119.04464158578463
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-06-01,121,116.44373358765229
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-07-01,144,109.16119119288172
+Pine Hill West Branch Trail,Existing 30 m trail-buffer edge model,Biscuit Brook,Pine Hill West Branch Trail,2023-08-01,98,126.06709318074195
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-04-01,168,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-05-01,136,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,143,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,329,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,197,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,2,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,16,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-11-01,1,155.5
+Vernooy Falls Trail,Historical mean baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-12-01,7,155.5
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-04-01,168,163.0
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-05-01,136,227.0
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,143,186.0
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,329,429.0
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,197,258.0
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,2,133.5
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,16,176.0
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-11-01,1,78.0
+Vernooy Falls Trail,Seasonal historical baseline,Upper Cherrytown Road,Vernooy Falls Trail,2023-12-01,7,59.5
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-04-01,168,124.71428571428571
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-05-01,136,124.71428571428571
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,143,247.8571428571429
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,329,494.14285714285717
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,197,494.14285714285717
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,2,247.8571428571429
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,16,124.71428571428571
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-11-01,1,124.71428571428571
+Vernooy Falls Trail,Best single statewide edge,Upper Cherrytown Road,Vernooy Falls Trail,2023-12-01,7,186.28571428571428
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-04-01,168,120.13443792588959
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-05-01,136,176.63563177210148
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,143,195.46936305417208
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,329,373.04454371369513
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,197,274.9895618006925
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,2,176.63563177210148
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,16,115.94916430765167
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-11-01,1,182.91354219945833
+Vernooy Falls Trail,Mean of top 10 edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-12-01,7,157.80190049003085
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-04-01,168,165.72449525825283
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-05-01,136,336.71080403374503
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,143,299.0851807261571
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,329,385.29141313330024
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,197,317.42948036318046
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,2,280.1746738742202
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,16,247.37972583738792
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-11-01,1,182.85400467166315
+Vernooy Falls Trail,Ridge screened statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-12-01,7,172.29253960960412
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-04-01,168,148.6474090796907
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-05-01,136,345.93909204756926
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,143,264.95569634529113
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,329,327.251592335949
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,197,364.39193492538504
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,2,393.819108075253
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,16,254.4997956091408
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-11-01,1,140.02713636607368
+Vernooy Falls Trail,Elastic Net selected statewide edges,Upper Cherrytown Road,Vernooy Falls Trail,2023-12-01,7,166.47272443192992
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-04-01,168,100.06506643876705
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-05-01,136,125.235522758462
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-06-01,143,92.87350749028278
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-07-01,329,301.4287169963267
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-08-01,197,301.4287169963267
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-09-01,2,279.8540401508739
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-10-01,16,64.10727169634568
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-11-01,1,125.235522758462
+Vernooy Falls Trail,Existing 30 m trail-buffer edge model,Upper Cherrytown Road,Vernooy Falls Trail,2023-12-01,7,125.235522758462

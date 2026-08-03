@@ -1,0 +1,864 @@
+location,start_date,end_date,year,month,visitation_count,frequency,source_file,source_sheet,source_row,source_col,target_processing,trail_name
+Ashokan HP,1996-01-01,1996-01-31,1996,1,10,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-02-01,1996-02-29,1996,2,10,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-03-01,1996-03-31,1996,3,10,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-04-01,1996-04-30,1996,4,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-05-01,1996-05-31,1996,5,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-06-01,1996-06-30,1996,6,132,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-07-01,1996-07-31,1996,7,269,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-08-01,1996-08-31,1996,8,193,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-09-01,1996-09-30,1996,9,155,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-10-01,1996-10-31,1996,10,247,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-11-01,1996-11-30,1996,11,113,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1996-12-01,1996-12-31,1996,12,35,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,7,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-01-01,1997-01-31,1997,1,26,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-02-01,1997-02-28,1997,2,45,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-03-01,1997-03-31,1997,3,67,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-04-01,1997-04-30,1997,4,153,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-05-01,1997-05-31,1997,5,240,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-06-01,1997-06-30,1997,6,197,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-07-01,1997-07-31,1997,7,200,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-08-01,1997-08-31,1997,8,254,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-09-01,1997-09-30,1997,9,137,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-10-01,1997-10-31,1997,10,254,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-11-01,1997-11-30,1997,11,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1997-12-01,1997-12-31,1997,12,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,8,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-01-01,1998-01-31,1998,1,87,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-02-01,1998-02-28,1998,2,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-03-01,1998-03-31,1998,3,93,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-04-01,1998-04-30,1998,4,168,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-05-01,1998-05-31,1998,5,255,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-06-01,1998-06-30,1998,6,177,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-07-01,1998-07-31,1998,7,301,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-08-01,1998-08-31,1998,8,268,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-09-01,1998-09-30,1998,9,207,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-10-01,1998-10-31,1998,10,288,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-11-01,1998-11-30,1998,11,146,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1998-12-01,1998-12-31,1998,12,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,9,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-01-01,1999-01-31,1999,1,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-02-01,1999-02-28,1999,2,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-03-01,1999-03-31,1999,3,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-04-01,1999-04-30,1999,4,157,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-05-01,1999-05-31,1999,5,187,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-06-01,1999-06-30,1999,6,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-07-01,1999-07-31,1999,7,119,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-08-01,1999-08-31,1999,8,208,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-09-01,1999-09-30,1999,9,243,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-10-01,1999-10-31,1999,10,215,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-11-01,1999-11-30,1999,11,91,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,1999-12-01,1999-12-31,1999,12,81,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,10,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-01-01,2000-01-31,2000,1,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-02-01,2000-02-29,2000,2,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-03-01,2000-03-31,2000,3,107,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-04-01,2000-04-30,2000,4,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-05-01,2000-05-31,2000,5,101,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-06-01,2000-06-30,2000,6,80,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-07-01,2000-07-31,2000,7,179,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-08-01,2000-08-31,2000,8,235,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-09-01,2000-09-30,2000,9,160,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-10-01,2000-10-31,2000,10,238,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-11-01,2000-11-30,2000,11,130,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2000-12-01,2000-12-31,2000,12,48,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,11,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-01-01,2001-01-31,2001,1,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-02-01,2001-02-28,2001,2,23,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-03-01,2001-03-31,2001,3,52,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-04-01,2001-04-30,2001,4,139,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-05-01,2001-05-31,2001,5,206,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-06-01,2001-06-30,2001,6,109,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-07-01,2001-07-31,2001,7,241,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-08-01,2001-08-31,2001,8,140,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-09-01,2001-09-30,2001,9,186,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-10-01,2001-10-31,2001,10,234,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-11-01,2001-11-30,2001,11,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2001-12-01,2001-12-31,2001,12,54,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,12,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-01-01,2002-01-31,2002,1,114,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-02-01,2002-02-28,2002,2,100,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-03-01,2002-03-31,2002,3,108,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-04-01,2002-04-30,2002,4,128,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-05-01,2002-05-31,2002,5,175,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-06-01,2002-06-30,2002,6,228,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-07-01,2002-07-31,2002,7,289,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-08-01,2002-08-31,2002,8,186,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-09-01,2002-09-30,2002,9,188,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-10-01,2002-10-31,2002,10,181,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-11-01,2002-11-30,2002,11,104,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2002-12-01,2002-12-31,2002,12,88,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,13,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-01-01,2003-01-31,2003,1,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-02-01,2003-02-28,2003,2,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-03-01,2003-03-31,2003,3,46,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-04-01,2003-04-30,2003,4,130,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-05-01,2003-05-31,2003,5,187,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-06-01,2003-06-30,2003,6,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-07-01,2003-07-31,2003,7,314,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-08-01,2003-08-31,2003,8,213,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-09-01,2003-09-30,2003,9,163,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-10-01,2003-10-31,2003,10,199,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-11-01,2003-11-30,2003,11,90,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2003-12-01,2003-12-31,2003,12,33,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,14,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-01-01,2004-01-31,2004,1,99,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-02-01,2004-02-29,2004,2,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-03-01,2004-03-31,2004,3,43,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-04-01,2004-04-30,2004,4,144,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-05-01,2004-05-31,2004,5,194,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-06-01,2004-06-30,2004,6,161,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-07-01,2004-07-31,2004,7,207,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-08-01,2004-08-31,2004,8,216,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-09-01,2004-09-30,2004,9,190,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-10-01,2004-10-31,2004,10,247,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-11-01,2004-11-30,2004,11,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2004-12-01,2004-12-31,2004,12,55,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,15,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-01-01,2005-01-31,2005,1,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-02-01,2005-02-28,2005,2,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-03-01,2005-03-31,2005,3,65,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-04-01,2005-04-30,2005,4,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-05-01,2005-05-31,2005,5,219,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-06-01,2005-06-30,2005,6,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-07-01,2005-07-31,2005,7,279,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-08-01,2005-08-31,2005,8,136,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-09-01,2005-09-30,2005,9,153,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-10-01,2005-10-31,2005,10,170,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-11-01,2005-11-30,2005,11,136,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2005-12-01,2005-12-31,2005,12,47,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,16,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-01-01,2006-01-31,2006,1,42,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-02-01,2006-02-28,2006,2,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-03-01,2006-03-31,2006,3,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-04-01,2006-04-30,2006,4,160,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-05-01,2006-05-31,2006,5,122,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-06-01,2006-06-30,2006,6,149,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-07-01,2006-07-31,2006,7,243,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-08-01,2006-08-31,2006,8,214,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-09-01,2006-09-30,2006,9,206,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-10-01,2006-10-31,2006,10,344,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-11-01,2006-11-30,2006,11,157,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2006-12-01,2006-12-31,2006,12,125,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,17,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-01-01,2007-01-31,2007,1,46,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-02-01,2007-02-28,2007,2,45,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-03-01,2007-03-31,2007,3,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-04-01,2007-04-30,2007,4,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-05-01,2007-05-31,2007,5,193,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-06-01,2007-06-30,2007,6,170,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-07-01,2007-07-31,2007,7,263,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-08-01,2007-08-31,2007,8,226,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-09-01,2007-09-30,2007,9,194,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-10-01,2007-10-31,2007,10,244,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-11-01,2007-11-30,2007,11,118,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2007-12-01,2007-12-31,2007,12,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,18,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-01-01,2010-01-31,2010,1,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-02-01,2010-02-28,2010,2,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-03-01,2010-03-31,2010,3,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-04-01,2010-04-30,2010,4,37,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-05-01,2010-05-31,2010,5,218,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-06-01,2010-06-30,2010,6,25,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-07-01,2010-07-31,2010,7,216,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-08-01,2010-08-31,2010,8,257,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-09-01,2010-09-30,2010,9,213,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-10-01,2010-10-31,2010,10,380,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-11-01,2010-11-30,2010,11,123,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2010-12-01,2010-12-31,2010,12,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,21,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-01-01,2012-01-31,2012,1,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-02-01,2012-02-29,2012,2,66,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-03-01,2012-03-31,2012,3,120,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-04-01,2012-04-30,2012,4,215,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-05-01,2012-05-31,2012,5,181,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-06-01,2012-06-30,2012,6,200,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-07-01,2012-07-31,2012,7,211,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-08-01,2012-08-31,2012,8,222,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-09-01,2012-09-30,2012,9,209,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-10-01,2012-10-31,2012,10,225,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-11-01,2012-11-30,2012,11,159,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2012-12-01,2012-12-31,2012,12,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,23,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-01-01,2013-01-31,2013,1,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-02-01,2013-02-28,2013,2,54,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-03-01,2013-03-31,2013,3,129,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-04-01,2013-04-30,2013,4,111,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-05-01,2013-05-31,2013,5,187,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-06-01,2013-06-30,2013,6,269,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-07-01,2013-07-31,2013,7,196,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-08-01,2013-08-31,2013,8,275,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-09-01,2013-09-30,2013,9,238,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-10-01,2013-10-31,2013,10,163,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-11-01,2013-11-30,2013,11,104,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2013-12-01,2013-12-31,2013,12,11,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,24,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-01-01,2014-01-31,2014,1,34,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-02-01,2014-02-28,2014,2,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-03-01,2014-03-31,2014,3,64,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-04-01,2014-04-30,2014,4,207,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-05-01,2014-05-31,2014,5,237,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-06-01,2014-06-30,2014,6,185,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-07-01,2014-07-31,2014,7,268,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-08-01,2014-08-31,2014,8,250,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-09-01,2014-09-30,2014,9,178,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-10-01,2014-10-31,2014,10,190,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-11-01,2014-11-30,2014,11,114,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2014-12-01,2014-12-31,2014,12,36,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,25,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-01-01,2015-01-31,2015,1,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-02-01,2015-02-28,2015,2,25,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-03-01,2015-03-31,2015,3,69,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-04-01,2015-04-30,2015,4,156,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-05-01,2015-05-31,2015,5,228,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-06-01,2015-06-30,2015,6,114,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-07-01,2015-07-31,2015,7,214,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-08-01,2015-08-31,2015,8,266,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-09-01,2015-09-30,2015,9,223,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-10-01,2015-10-31,2015,10,247,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-11-01,2015-11-30,2015,11,237,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2015-12-01,2015-12-31,2015,12,134,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,26,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-02-01,2016-02-29,2016,2,40,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-06-01,2016-06-30,2016,6,173,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-07-01,2016-07-31,2016,7,321,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-08-01,2016-08-31,2016,8,238,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-09-01,2016-09-30,2016,9,172,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-10-01,2016-10-31,2016,10,228,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-11-01,2016-11-30,2016,11,170,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2016-12-01,2016-12-31,2016,12,47,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,27,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-01-01,2017-01-31,2017,1,69,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-02-01,2017-02-28,2017,2,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-03-01,2017-03-31,2017,3,41,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-04-01,2017-04-30,2017,4,168,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-05-01,2017-05-31,2017,5,307,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-06-01,2017-06-30,2017,6,131,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-07-01,2017-07-31,2017,7,340,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-08-01,2017-08-31,2017,8,267,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-09-01,2017-09-30,2017,9,172,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-10-01,2017-10-31,2017,10,274,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-11-01,2017-11-30,2017,11,137,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2017-12-01,2017-12-31,2017,12,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,28,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-01-01,2018-01-31,2018,1,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-02-01,2018-02-28,2018,2,52,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-03-01,2018-03-31,2018,3,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-04-01,2018-04-30,2018,4,63,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-05-01,2018-05-31,2018,5,93,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-06-01,2018-06-30,2018,6,205,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-07-01,2018-07-31,2018,7,197,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-08-01,2018-08-31,2018,8,245,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-09-01,2018-09-30,2018,9,311,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-10-01,2018-10-31,2018,10,206,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-11-01,2018-11-30,2018,11,95,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2018-12-01,2018-12-31,2018,12,100,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,29,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-01-01,2019-01-31,2019,1,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-02-01,2019-02-28,2019,2,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-03-01,2019-03-31,2019,3,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-04-01,2019-04-30,2019,4,197,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-05-01,2019-05-31,2019,5,219,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-06-01,2019-06-30,2019,6,211,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-07-01,2019-07-31,2019,7,229,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-08-01,2019-08-31,2019,8,282,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-09-01,2019-09-30,2019,9,173,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-10-01,2019-10-31,2019,10,135,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-11-01,2019-11-30,2019,11,124,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2019-12-01,2019-12-31,2019,12,64,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,30,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-01-01,2020-01-31,2020,1,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-02-01,2020-02-29,2020,2,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-03-01,2020-03-31,2020,3,137,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-04-01,2020-04-30,2020,4,163,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-05-01,2020-05-31,2020,5,348,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-06-01,2020-06-30,2020,6,261,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-07-01,2020-07-31,2020,7,275,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-08-01,2020-08-31,2020,8,333,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-09-01,2020-09-30,2020,9,254,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-10-01,2020-10-31,2020,10,362,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-11-01,2020-11-30,2020,11,239,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2020-12-01,2020-12-31,2020,12,24,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,31,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-01-01,2021-01-31,2021,1,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-02-01,2021-02-28,2021,2,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-03-01,2021-03-31,2021,3,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-04-01,2021-04-30,2021,4,135,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-05-01,2021-05-31,2021,5,191,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-06-01,2021-06-30,2021,6,178,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-07-01,2021-07-31,2021,7,246,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-08-01,2021-08-31,2021,8,157,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-09-01,2021-09-30,2021,9,200,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-10-01,2021-10-31,2021,10,196,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-11-01,2021-11-30,2021,11,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2021-12-01,2021-12-31,2021,12,119,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,32,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-01-01,2022-01-31,2022,1,47,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-02-01,2022-02-28,2022,2,54,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-03-01,2022-03-31,2022,3,80,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-04-01,2022-04-30,2022,4,128,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-05-01,2022-05-31,2022,5,173,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-06-01,2022-06-30,2022,6,180,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-07-01,2022-07-31,2022,7,235,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-08-01,2022-08-31,2022,8,177,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-09-01,2022-09-30,2022,9,155,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-10-01,2022-10-31,2022,10,197,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-11-01,2022-11-30,2022,11,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2022-12-01,2022-12-31,2022,12,49,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,33,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-01-01,2023-01-31,2023,1,84,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-02-01,2023-02-28,2023,2,98,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-03-01,2023-03-31,2023,3,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-04-01,2023-04-30,2023,4,120,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-05-01,2023-05-31,2023,5,186,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-06-01,2023-06-30,2023,6,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-07-01,2023-07-31,2023,7,180,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-08-01,2023-08-31,2023,8,149,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-09-01,2023-09-30,2023,9,105,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-10-01,2023-10-31,2023,10,132,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-11-01,2023-11-30,2023,11,102,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2023-12-01,2023-12-31,2023,12,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,34,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-01-01,2024-01-31,2024,1,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-02-01,2024-02-29,2024,2,92,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-03-01,2024-03-31,2024,3,103,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-04-01,2024-04-30,2024,4,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-05-01,2024-05-31,2024,5,161,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-06-01,2024-06-30,2024,6,160,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-07-01,2024-07-31,2024,7,149,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-08-01,2024-08-31,2024,8,191,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-09-01,2024-09-30,2024,9,127,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-10-01,2024-10-31,2024,10,260,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-11-01,2024-11-30,2024,11,63,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,15,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2024-12-01,2024-12-31,2024,12,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,16,35,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-01-01,2025-01-31,2025,1,35,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,5,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-02-01,2025-02-28,2025,2,27,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,6,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-03-01,2025-03-31,2025,3,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,7,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-04-01,2025-04-30,2025,4,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,8,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-05-01,2025-05-31,2025,5,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,9,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-06-01,2025-06-30,2025,6,160,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,10,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-07-01,2025-07-31,2025,7,260,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,11,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-08-01,2025-08-31,2025,8,173,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,12,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-09-01,2025-09-30,2025,9,101,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,13,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Ashokan HP,2025-10-01,2025-10-31,2025,10,117,monthly,Trail Register Tally_8_9_24_(1).xlsx,Ashokan HP,14,36,observed_monthly_from_register_tally,Ashokan High Point Trail
+Biscuit Brook,1991-01-01,1991-01-31,1991,1,16,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-02-01,1991-02-28,1991,2,61,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-03-01,1991-03-31,1991,3,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-04-01,1991-04-30,1991,4,91,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-05-01,1991-05-31,1991,5,69,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-06-01,1991-06-30,1991,6,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-07-01,1991-07-31,1991,7,82,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-08-01,1991-08-31,1991,8,102,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-09-01,1991-09-30,1991,9,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-10-01,1991-10-31,1991,10,87,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-11-01,1991-11-30,1991,11,44,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1991-12-01,1991-12-31,1991,12,22,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,2,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-01-01,1992-01-31,1992,1,31,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-02-01,1992-02-29,1992,2,54,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-03-01,1992-03-31,1992,3,41,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-04-01,1992-04-30,1992,4,74,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-05-01,1992-05-31,1992,5,90,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-06-01,1992-06-30,1992,6,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-07-01,1992-07-31,1992,7,109,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-08-01,1992-08-31,1992,8,93,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-09-01,1992-09-30,1992,9,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-10-01,1992-10-31,1992,10,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-11-01,1992-11-30,1992,11,35,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1992-12-01,1992-12-31,1992,12,20,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,3,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-01-01,1993-01-31,1993,1,27,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-02-01,1993-02-28,1993,2,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-03-01,1993-03-31,1993,3,23,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-04-01,1993-04-30,1993,4,30,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-05-01,1993-05-31,1993,5,136,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-06-01,1993-06-30,1993,6,38,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-07-01,1993-07-31,1993,7,100,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-08-01,1993-08-31,1993,8,132,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-09-01,1993-09-30,1993,9,125,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-10-01,1993-10-31,1993,10,110,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-11-01,1993-11-30,1993,11,40,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1993-12-01,1993-12-31,1993,12,12,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,4,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-01-01,1994-01-31,1994,1,14,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-02-01,1994-02-28,1994,2,14,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-03-01,1994-03-31,1994,3,17,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-04-01,1994-04-30,1994,4,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-05-01,1994-05-31,1994,5,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-06-01,1994-06-30,1994,6,56,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-07-01,1994-07-31,1994,7,115,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-08-01,1994-08-31,1994,8,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-09-01,1994-09-30,1994,9,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-10-01,1994-10-31,1994,10,95,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-11-01,1994-11-30,1994,11,74,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1994-12-01,1994-12-31,1994,12,45,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,5,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-01-01,1995-01-31,1995,1,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-02-01,1995-02-28,1995,2,41,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-03-01,1995-03-31,1995,3,56,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-04-01,1995-04-30,1995,4,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-05-01,1995-05-31,1995,5,106,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-06-01,1995-06-30,1995,6,38,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-07-01,1995-07-31,1995,7,101,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-08-01,1995-08-31,1995,8,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-09-01,1995-09-30,1995,9,138,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-10-01,1995-10-31,1995,10,43,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-11-01,1995-11-30,1995,11,37,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1995-12-01,1995-12-31,1995,12,22,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,6,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-01-01,1996-01-31,1996,1,24,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-02-01,1996-02-29,1996,2,49,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-03-01,1996-03-31,1996,3,40,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-04-01,1996-04-30,1996,4,48,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-05-01,1996-05-31,1996,5,103,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-06-01,1996-06-30,1996,6,88,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-07-01,1996-07-31,1996,7,99,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-08-01,1996-08-31,1996,8,82,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-09-01,1996-09-30,1996,9,95,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-10-01,1996-10-31,1996,10,101,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-11-01,1996-11-30,1996,11,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1996-12-01,1996-12-31,1996,12,16,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,7,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-01-01,1997-01-31,1997,1,13,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-02-01,1997-02-28,1997,2,22,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-03-01,1997-03-31,1997,3,47,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-04-01,1997-04-30,1997,4,33,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-05-01,1997-05-31,1997,5,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-06-01,1997-06-30,1997,6,80,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-07-01,1997-07-31,1997,7,109,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-08-01,1997-08-31,1997,8,99,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-09-01,1997-09-30,1997,9,95,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-10-01,1997-10-31,1997,10,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-11-01,1997-11-30,1997,11,46,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1997-12-01,1997-12-31,1997,12,22,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,8,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-01-01,1998-01-31,1998,1,88,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-02-01,1998-02-28,1998,2,48,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-03-01,1998-03-31,1998,3,41,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-04-01,1998-04-30,1998,4,171,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-05-01,1998-05-31,1998,5,101,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-06-01,1998-06-30,1998,6,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-07-01,1998-07-31,1998,7,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-08-01,1998-08-31,1998,8,101,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-09-01,1998-09-30,1998,9,96,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-10-01,1998-10-31,1998,10,102,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-11-01,1998-11-30,1998,11,95,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1998-12-01,1998-12-31,1998,12,34,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,9,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-01-01,1999-01-31,1999,1,32,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-02-01,1999-02-28,1999,2,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-03-01,1999-03-31,1999,3,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-04-01,1999-04-30,1999,4,31,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-05-01,1999-05-31,1999,5,121,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-06-01,1999-06-30,1999,6,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-07-01,1999-07-31,1999,7,66,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-08-01,1999-08-31,1999,8,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-09-01,1999-09-30,1999,9,92,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-10-01,1999-10-31,1999,10,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-11-01,1999-11-30,1999,11,44,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,1999-12-01,1999-12-31,1999,12,26,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,10,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-01-01,2000-01-31,2000,1,34,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-02-01,2000-02-29,2000,2,67,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-03-01,2000-03-31,2000,3,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-04-01,2000-04-30,2000,4,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-05-01,2000-05-31,2000,5,113,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-06-01,2000-06-30,2000,6,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-07-01,2000-07-31,2000,7,99,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-08-01,2000-08-31,2000,8,96,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-09-01,2000-09-30,2000,9,135,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-10-01,2000-10-31,2000,10,103,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-11-01,2000-11-30,2000,11,31,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2000-12-01,2000-12-31,2000,12,25,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,11,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-01-01,2001-01-31,2001,1,81,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-02-01,2001-02-28,2001,2,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-03-01,2001-03-31,2001,3,55,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-04-01,2001-04-30,2001,4,37,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-05-01,2001-05-31,2001,5,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-06-01,2001-06-30,2001,6,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-07-01,2001-07-31,2001,7,76,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-08-01,2001-08-31,2001,8,63,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-09-01,2001-09-30,2001,9,76,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-10-01,2001-10-31,2001,10,107,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-11-01,2001-11-30,2001,11,58,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2001-12-01,2001-12-31,2001,12,47,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,12,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-01-01,2002-01-31,2002,1,25,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-02-01,2002-02-28,2002,2,80,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-03-01,2002-03-31,2002,3,84,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-04-01,2002-04-30,2002,4,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-05-01,2002-05-31,2002,5,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-06-01,2002-06-30,2002,6,92,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-07-01,2002-07-31,2002,7,87,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-08-01,2002-08-31,2002,8,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-09-01,2002-09-30,2002,9,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-10-01,2002-10-31,2002,10,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-11-01,2002-11-30,2002,11,44,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2002-12-01,2002-12-31,2002,12,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,13,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-01-01,2003-01-31,2003,1,38,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-02-01,2003-02-28,2003,2,32,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-03-01,2003-03-31,2003,3,43,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-04-01,2003-04-30,2003,4,33,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-05-01,2003-05-31,2003,5,33,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-06-01,2003-06-30,2003,6,44,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-07-01,2003-07-31,2003,7,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-08-01,2003-08-31,2003,8,91,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-09-01,2003-09-30,2003,9,64,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-10-01,2003-10-31,2003,10,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-11-01,2003-11-30,2003,11,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2003-12-01,2003-12-31,2003,12,25,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,14,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-01-01,2004-01-31,2004,1,37,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-02-01,2004-02-29,2004,2,56,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-03-01,2004-03-31,2004,3,26,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-04-01,2004-04-30,2004,4,55,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-05-01,2004-05-31,2004,5,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-06-01,2004-06-30,2004,6,68,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-07-01,2004-07-31,2004,7,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-08-01,2004-08-31,2004,8,86,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-09-01,2004-09-30,2004,9,107,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-10-01,2004-10-31,2004,10,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-11-01,2004-11-30,2004,11,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2004-12-01,2004-12-31,2004,12,43,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,15,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-01-01,2005-01-31,2005,1,38,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-02-01,2005-02-28,2005,2,49,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-03-01,2005-03-31,2005,3,48,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-04-01,2005-04-30,2005,4,49,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-05-01,2005-05-31,2005,5,91,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-06-01,2005-06-30,2005,6,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-07-01,2005-07-31,2005,7,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-08-01,2005-08-31,2005,8,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-09-01,2005-09-30,2005,9,76,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-10-01,2005-10-31,2005,10,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-11-01,2005-11-30,2005,11,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2005-12-01,2005-12-31,2005,12,32,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,16,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-01-01,2006-01-31,2006,1,40,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-02-01,2006-02-28,2006,2,23,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-03-01,2006-03-31,2006,3,63,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-04-01,2006-04-30,2006,4,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-05-01,2006-05-31,2006,5,49,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-06-01,2006-06-30,2006,6,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-07-01,2006-07-31,2006,7,78,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-08-01,2006-08-31,2006,8,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-09-01,2006-09-30,2006,9,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-10-01,2006-10-31,2006,10,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-11-01,2006-11-30,2006,11,63,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2006-12-01,2006-12-31,2006,12,52,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,17,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-01-01,2007-01-31,2007,1,32,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-02-01,2007-02-28,2007,2,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-03-01,2007-03-31,2007,3,29,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-04-01,2007-04-30,2007,4,58,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-05-01,2007-05-31,2007,5,61,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-06-01,2007-06-30,2007,6,56,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-07-01,2007-07-31,2007,7,127,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-08-01,2007-08-31,2007,8,58,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-09-01,2007-09-30,2007,9,104,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-10-01,2007-10-31,2007,10,111,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-11-01,2007-11-30,2007,11,39,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2007-12-01,2007-12-31,2007,12,19,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,18,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-01-01,2010-01-31,2010,1,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-02-01,2010-02-28,2010,2,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-03-01,2010-03-31,2010,3,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-04-01,2010-04-30,2010,4,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-05-01,2010-05-31,2010,5,39,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-06-01,2010-06-30,2010,6,84,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-07-01,2010-07-31,2010,7,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-08-01,2010-08-31,2010,8,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-09-01,2010-09-30,2010,9,42,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-10-01,2010-10-31,2010,10,91,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-11-01,2010-11-30,2010,11,87,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2010-12-01,2010-12-31,2010,12,39,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,21,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-01-01,2012-01-31,2012,1,80,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-02-01,2012-02-29,2012,2,100,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-03-01,2012-03-31,2012,3,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-04-01,2012-04-30,2012,4,108,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-05-01,2012-05-31,2012,5,77,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-06-01,2012-06-30,2012,6,52,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-07-01,2012-07-31,2012,7,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-08-01,2012-08-31,2012,8,115,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-09-01,2012-09-30,2012,9,87,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-10-01,2012-10-31,2012,10,87,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-11-01,2012-11-30,2012,11,57,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2012-12-01,2012-12-31,2012,12,36,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,23,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-01-01,2013-01-31,2013,1,76,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-02-01,2013-02-28,2013,2,45,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-03-01,2013-03-31,2013,3,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-04-01,2013-04-30,2013,4,63,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-05-01,2013-05-31,2013,5,90,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-06-01,2013-06-30,2013,6,103,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-07-01,2013-07-31,2013,7,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-08-01,2013-08-31,2013,8,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-09-01,2013-09-30,2013,9,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-10-01,2013-10-31,2013,10,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-11-01,2013-11-30,2013,11,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2013-12-01,2013-12-31,2013,12,63,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,24,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-01-01,2014-01-31,2014,1,67,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-02-01,2014-02-28,2014,2,37,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-03-01,2014-03-31,2014,3,67,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-04-01,2014-04-30,2014,4,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-05-01,2014-05-31,2014,5,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-06-01,2014-06-30,2014,6,78,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-07-01,2014-07-31,2014,7,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-08-01,2014-08-31,2014,8,98,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-09-01,2014-09-30,2014,9,115,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-10-01,2014-10-31,2014,10,100,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-11-01,2014-11-30,2014,11,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2014-12-01,2014-12-31,2014,12,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,25,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-01-01,2015-01-31,2015,1,98,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-02-01,2015-02-28,2015,2,35,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-03-01,2015-03-31,2015,3,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-04-01,2015-04-30,2015,4,86,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-05-01,2015-05-31,2015,5,93,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-06-01,2015-06-30,2015,6,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-07-01,2015-07-31,2015,7,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-08-01,2015-08-31,2015,8,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-09-01,2015-09-30,2015,9,104,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-10-01,2015-10-31,2015,10,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-11-01,2015-11-30,2015,11,115,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2015-12-01,2015-12-31,2015,12,91,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,26,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-01-01,2016-01-31,2016,1,98,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-02-01,2016-02-29,2016,2,136,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-03-01,2016-03-31,2016,3,128,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-04-01,2016-04-30,2016,4,98,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-05-01,2016-05-31,2016,5,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-06-01,2016-06-30,2016,6,135,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-07-01,2016-07-31,2016,7,111,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-08-01,2016-08-31,2016,8,130,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-09-01,2016-09-30,2016,9,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-10-01,2016-10-31,2016,10,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-11-01,2016-11-30,2016,11,110,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2016-12-01,2016-12-31,2016,12,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,27,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-01-01,2017-01-31,2017,1,90,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-02-01,2017-02-28,2017,2,58,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-03-01,2017-03-31,2017,3,48,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-04-01,2017-04-30,2017,4,79,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-05-01,2017-05-31,2017,5,76,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-06-01,2017-06-30,2017,6,81,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-07-01,2017-07-31,2017,7,110,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-08-01,2017-08-31,2017,8,81,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-09-01,2017-09-30,2017,9,118,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-10-01,2017-10-31,2017,10,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-11-01,2017-11-30,2017,11,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2017-12-01,2017-12-31,2017,12,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,28,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-01-01,2018-01-31,2018,1,48,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-02-01,2018-02-28,2018,2,92,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-03-01,2018-03-31,2018,3,37,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-04-01,2018-04-30,2018,4,80,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-05-01,2018-05-31,2018,5,139,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-06-01,2018-06-30,2018,6,124,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-07-01,2018-07-31,2018,7,105,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-08-01,2018-08-31,2018,8,93,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-09-01,2018-09-30,2018,9,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-10-01,2018-10-31,2018,10,95,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-11-01,2018-11-30,2018,11,65,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2018-12-01,2018-12-31,2018,12,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,29,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-01-01,2019-01-31,2019,1,65,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-02-01,2019-02-28,2019,2,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-03-01,2019-03-31,2019,3,109,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-04-01,2019-04-30,2019,4,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-05-01,2019-05-31,2019,5,104,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-06-01,2019-06-30,2019,6,130,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-07-01,2019-07-31,2019,7,140,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-08-01,2019-08-31,2019,8,123,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-09-01,2019-09-30,2019,9,122,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-10-01,2019-10-31,2019,10,69,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-11-01,2019-11-30,2019,11,133,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2019-12-01,2019-12-31,2019,12,68,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,30,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-01-01,2020-01-31,2020,1,84,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-02-01,2020-02-29,2020,2,105,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-03-01,2020-03-31,2020,3,125,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-04-01,2020-04-30,2020,4,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-05-01,2020-05-31,2020,5,207,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-06-01,2020-06-30,2020,6,183,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-07-01,2020-07-31,2020,7,173,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-08-01,2020-08-31,2020,8,218,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-09-01,2020-09-30,2020,9,168,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-10-01,2020-10-31,2020,10,208,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-11-01,2020-11-30,2020,11,230,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2020-12-01,2020-12-31,2020,12,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,31,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-01-01,2021-01-31,2021,1,103,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-02-01,2021-02-28,2021,2,131,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-03-01,2021-03-31,2021,3,199,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-04-01,2021-04-30,2021,4,141,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-05-01,2021-05-31,2021,5,127,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-06-01,2021-06-30,2021,6,175,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-07-01,2021-07-31,2021,7,123,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-08-01,2021-08-31,2021,8,105,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-09-01,2021-09-30,2021,9,88,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-10-01,2021-10-31,2021,10,155,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-11-01,2021-11-30,2021,11,134,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2021-12-01,2021-12-31,2021,12,111,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,32,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-01-01,2022-01-31,2022,1,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-02-01,2022-02-28,2022,2,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-03-01,2022-03-31,2022,3,83,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-04-01,2022-04-30,2022,4,160,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-05-01,2022-05-31,2022,5,144,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-06-01,2022-06-30,2022,6,121,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-07-01,2022-07-31,2022,7,145,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-08-01,2022-08-31,2022,8,107,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-09-01,2022-09-30,2022,9,125,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,13,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-10-01,2022-10-31,2022,10,133,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,14,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-11-01,2022-11-30,2022,11,77,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,15,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2022-12-01,2022-12-31,2022,12,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,16,33,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-01-01,2023-01-31,2023,1,47,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,5,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-02-01,2023-02-28,2023,2,68,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,6,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-03-01,2023-03-31,2023,3,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,7,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-04-01,2023-04-30,2023,4,74,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,8,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-05-01,2023-05-31,2023,5,157,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,9,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-06-01,2023-06-30,2023,6,121,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,10,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-07-01,2023-07-31,2023,7,144,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,11,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Biscuit Brook,2023-08-01,2023-08-31,2023,8,98,monthly,Trail Register Tally_8_9_24_(1).xlsx,Biscuit Brook,12,34,observed_monthly_from_register_tally,Pine Hill West Branch Trail
+Upper Cherrytown Road,1996-01-01,1996-01-31,1996,1,10,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-02-01,1996-02-29,1996,2,10,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-03-01,1996-03-31,1996,3,10,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-04-01,1996-04-30,1996,4,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-05-01,1996-05-31,1996,5,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-06-01,1996-06-30,1996,6,132,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-07-01,1996-07-31,1996,7,269,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-08-01,1996-08-31,1996,8,193,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-09-01,1996-09-30,1996,9,155,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-10-01,1996-10-31,1996,10,247,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-11-01,1996-11-30,1996,11,113,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1996-12-01,1996-12-31,1996,12,35,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,7,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-01-01,1997-01-31,1997,1,26,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-02-01,1997-02-28,1997,2,45,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-03-01,1997-03-31,1997,3,67,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-04-01,1997-04-30,1997,4,153,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-05-01,1997-05-31,1997,5,240,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-06-01,1997-06-30,1997,6,197,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-07-01,1997-07-31,1997,7,200,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-08-01,1997-08-31,1997,8,254,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-09-01,1997-09-30,1997,9,137,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-10-01,1997-10-31,1997,10,254,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-11-01,1997-11-30,1997,11,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1997-12-01,1997-12-31,1997,12,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,8,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-01-01,1998-01-31,1998,1,87,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-02-01,1998-02-28,1998,2,89,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-03-01,1998-03-31,1998,3,93,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-04-01,1998-04-30,1998,4,168,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-05-01,1998-05-31,1998,5,255,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-06-01,1998-06-30,1998,6,177,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-07-01,1998-07-31,1998,7,301,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-08-01,1998-08-31,1998,8,268,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-09-01,1998-09-30,1998,9,207,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-10-01,1998-10-31,1998,10,288,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-11-01,1998-11-30,1998,11,146,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1998-12-01,1998-12-31,1998,12,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,9,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-01-01,1999-01-31,1999,1,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-02-01,1999-02-28,1999,2,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-03-01,1999-03-31,1999,3,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-04-01,1999-04-30,1999,4,157,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-05-01,1999-05-31,1999,5,187,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-06-01,1999-06-30,1999,6,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-07-01,1999-07-31,1999,7,119,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-08-01,1999-08-31,1999,8,208,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-09-01,1999-09-30,1999,9,243,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-10-01,1999-10-31,1999,10,215,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-11-01,1999-11-30,1999,11,91,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,1999-12-01,1999-12-31,1999,12,81,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,10,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-01-01,2000-01-31,2000,1,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-02-01,2000-02-29,2000,2,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-03-01,2000-03-31,2000,3,107,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-04-01,2000-04-30,2000,4,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-05-01,2000-05-31,2000,5,101,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-06-01,2000-06-30,2000,6,80,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-07-01,2000-07-31,2000,7,179,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-08-01,2000-08-31,2000,8,235,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-09-01,2000-09-30,2000,9,160,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-10-01,2000-10-31,2000,10,238,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-11-01,2000-11-30,2000,11,130,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2000-12-01,2000-12-31,2000,12,48,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,11,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-01-01,2001-01-31,2001,1,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-02-01,2001-02-28,2001,2,23,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-03-01,2001-03-31,2001,3,52,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-04-01,2001-04-30,2001,4,139,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-05-01,2001-05-31,2001,5,206,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-06-01,2001-06-30,2001,6,109,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-07-01,2001-07-31,2001,7,241,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-08-01,2001-08-31,2001,8,140,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-09-01,2001-09-30,2001,9,186,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-10-01,2001-10-31,2001,10,234,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-11-01,2001-11-30,2001,11,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2001-12-01,2001-12-31,2001,12,54,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,12,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-01-01,2002-01-31,2002,1,114,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-02-01,2002-02-28,2002,2,100,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-03-01,2002-03-31,2002,3,108,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-04-01,2002-04-30,2002,4,128,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-05-01,2002-05-31,2002,5,175,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-06-01,2002-06-30,2002,6,228,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-07-01,2002-07-31,2002,7,289,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-08-01,2002-08-31,2002,8,186,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-09-01,2002-09-30,2002,9,188,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-10-01,2002-10-31,2002,10,181,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-11-01,2002-11-30,2002,11,104,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2002-12-01,2002-12-31,2002,12,88,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,13,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-01-01,2003-01-31,2003,1,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-02-01,2003-02-28,2003,2,50,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-03-01,2003-03-31,2003,3,46,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-04-01,2003-04-30,2003,4,130,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-05-01,2003-05-31,2003,5,187,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-06-01,2003-06-30,2003,6,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-07-01,2003-07-31,2003,7,314,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-08-01,2003-08-31,2003,8,213,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-09-01,2003-09-30,2003,9,163,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-10-01,2003-10-31,2003,10,199,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-11-01,2003-11-30,2003,11,90,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2003-12-01,2003-12-31,2003,12,33,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,14,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-01-01,2004-01-31,2004,1,99,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-02-01,2004-02-29,2004,2,85,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-03-01,2004-03-31,2004,3,43,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-04-01,2004-04-30,2004,4,144,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-05-01,2004-05-31,2004,5,194,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-06-01,2004-06-30,2004,6,161,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-07-01,2004-07-31,2004,7,207,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-08-01,2004-08-31,2004,8,216,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-09-01,2004-09-30,2004,9,190,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-10-01,2004-10-31,2004,10,247,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-11-01,2004-11-30,2004,11,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2004-12-01,2004-12-31,2004,12,55,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,15,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-01-01,2005-01-31,2005,1,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-02-01,2005-02-28,2005,2,60,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-03-01,2005-03-31,2005,3,65,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-04-01,2005-04-30,2005,4,72,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-05-01,2005-05-31,2005,5,219,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-06-01,2005-06-30,2005,6,112,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-07-01,2005-07-31,2005,7,279,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-08-01,2005-08-31,2005,8,136,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-09-01,2005-09-30,2005,9,153,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-10-01,2005-10-31,2005,10,170,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-11-01,2005-11-30,2005,11,136,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2005-12-01,2005-12-31,2005,12,47,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,16,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-01-01,2006-01-31,2006,1,42,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-02-01,2006-02-28,2006,2,71,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-03-01,2006-03-31,2006,3,73,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-04-01,2006-04-30,2006,4,160,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-05-01,2006-05-31,2006,5,122,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-06-01,2006-06-30,2006,6,149,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-07-01,2006-07-31,2006,7,243,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-08-01,2006-08-31,2006,8,214,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-09-01,2006-09-30,2006,9,206,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-10-01,2006-10-31,2006,10,344,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-11-01,2006-11-30,2006,11,157,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2006-12-01,2006-12-31,2006,12,125,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,17,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-01-01,2007-01-31,2007,1,46,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-02-01,2007-02-28,2007,2,45,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-03-01,2007-03-31,2007,3,59,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-04-01,2007-04-30,2007,4,94,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-05-01,2007-05-31,2007,5,193,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-06-01,2007-06-30,2007,6,170,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-07-01,2007-07-31,2007,7,263,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-08-01,2007-08-31,2007,8,226,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-09-01,2007-09-30,2007,9,194,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-10-01,2007-10-31,2007,10,244,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-11-01,2007-11-30,2007,11,118,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2007-12-01,2007-12-31,2007,12,53,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,18,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-01-01,2010-01-31,2010,1,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-02-01,2010-02-28,2010,2,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-03-01,2010-03-31,2010,3,0,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-04-01,2010-04-30,2010,4,37,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-05-01,2010-05-31,2010,5,218,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-06-01,2010-06-30,2010,6,25,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-07-01,2010-07-31,2010,7,216,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-08-01,2010-08-31,2010,8,257,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-09-01,2010-09-30,2010,9,213,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-10-01,2010-10-31,2010,10,380,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-11-01,2010-11-30,2010,11,123,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2010-12-01,2010-12-31,2010,12,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,21,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-04-01,2021-04-30,2021,4,152,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-05-01,2021-05-31,2021,5,90,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-06-01,2021-06-30,2021,6,121,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-07-01,2021-07-31,2021,7,154,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-08-01,2021-08-31,2021,8,175,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-09-01,2021-09-30,2021,9,97,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-10-01,2021-10-31,2021,10,115,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-11-01,2021-11-30,2021,11,70,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2021-12-01,2021-12-31,2021,12,51,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,32,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-01-01,2022-01-31,2022,1,32,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-02-01,2022-02-28,2022,2,16,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-03-01,2022-03-31,2022,3,46,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-04-01,2022-04-30,2022,4,174,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-05-01,2022-05-31,2022,5,364,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-06-01,2022-06-30,2022,6,251,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-07-01,2022-07-31,2022,7,704,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-08-01,2022-08-31,2022,8,341,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-09-01,2022-09-30,2022,9,170,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-10-01,2022-10-31,2022,10,237,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-11-01,2022-11-30,2022,11,86,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2022-12-01,2022-12-31,2022,12,68,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,33,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-01-01,2023-01-31,2023,1,81,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,5,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-02-01,2023-02-28,2023,2,75,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,6,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-03-01,2023-03-31,2023,3,62,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,7,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-04-01,2023-04-30,2023,4,168,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,8,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-05-01,2023-05-31,2023,5,136,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,9,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-06-01,2023-06-30,2023,6,143,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,10,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-07-01,2023-07-31,2023,7,329,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,11,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-08-01,2023-08-31,2023,8,197,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,12,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-09-01,2023-09-30,2023,9,2,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,13,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-10-01,2023-10-31,2023,10,16,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,14,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-11-01,2023-11-30,2023,11,1,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,15,34,observed_monthly_from_register_tally,Vernooy Falls Trail
+Upper Cherrytown Road,2023-12-01,2023-12-31,2023,12,7,monthly,Trail Register Tally_8_9_24_(1).xlsx,Upper Cherrytown Road,16,34,observed_monthly_from_register_tally,Vernooy Falls Trail

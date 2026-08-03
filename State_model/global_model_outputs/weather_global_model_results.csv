@@ -1,0 +1,13 @@
+evaluation,feature_set,model,n_train,n_test,n_train_trails,n_test_trails,n,R2,MAE,RMSE,bias
+Known-trail future months with weather,History + statewide summary + edge PCA + weather,Random Forest,905,318,31,31,318,0.7358538939616066,52.38413465288692,109.32358938148083,2.1605619860984815
+Known-trail future months with weather,History + statewide summary + weather,Random Forest,905,318,31,31,318,0.7323944891067924,52.99425148007658,110.0371420862069,4.629426162230609
+Known-trail future months with weather,History + statewide summary + weather,HistGradientBoosting,905,318,31,31,318,0.7322591460329444,51.976662373102876,110.06496453733591,8.124721036232707
+Known-trail future months with weather,History + calendar + weather,Random Forest,905,318,31,31,318,0.7270271601257392,52.231832555007756,111.13516403352112,-1.2988632709216072
+Known-trail future months with weather,History + calendar + weather,HistGradientBoosting,905,318,31,31,318,0.7234247555384041,51.80440803848356,111.86608218745774,-1.2749198560014905
+Known-trail future months with weather,History + statewide summary + edge PCA + weather,HistGradientBoosting,905,318,31,31,318,0.7174101309449226,52.62106880279854,113.07590439229865,1.517402429247116
+Known-trail future months with weather,Statewide Strava + calendar + weather,HistGradientBoosting,905,318,31,31,318,0.681284624681425,62.35304470460501,120.0862500813713,22.02064156702132
+Known-trail future months with weather,Statewide Strava + calendar + weather,Ridge,905,318,31,31,318,0.5943657295335514,70.64069788683308,135.47498005185372,5.381071495542494
+Known-trail future months with weather,History + statewide summary + weather,Ridge,905,318,31,31,318,0.5527745339497668,67.66361340875908,142.250905153969,6.938896493952844
+Known-trail future months with weather,Statewide Strava + calendar + weather,Random Forest,905,318,31,31,318,0.49214285108255695,94.23901150025975,151.5872104373498,11.300200150290452
+Known-trail future months with weather,History + calendar + weather,Ridge,905,318,31,31,318,0.48960238298526426,68.75073996827045,151.96588195105744,4.40740256963709
+Known-trail future months with weather,History + statewide summary + edge PCA + weather,Ridge,905,318,31,31,318,0.13617064168492832,78.10015733741554,197.6995841818833,5.936234591837097
