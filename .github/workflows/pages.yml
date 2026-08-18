@@ -1,0 +1,91 @@
+name: Publish DEC dashboard to GitHub Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/pages.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Build portable static dashboard
+        shell: bash
+        run: |
+          set -euo pipefail
+          SOURCE_URL="https://dec-trail-visitation-explorer.invy333.chatgpt.site"
+          mkdir -p site/assets site/data
+          curl --fail --location --retry 3 "${SOURCE_URL}/" --output site/index.html
+
+          python3 - <<'PY'
+          import pathlib
+          import re
+          import urllib.request
+
+          source = "https://dec-trail-visitation-explorer.invy333.chatgpt.site"
+          site = pathlib.Path("site")
+          html = (site / "index.html").read_text(encoding="utf-8")
+          assets = sorted(set(re.findall(r'/assets/[^"\'<> ]+', html)))
+          for asset in assets:
+              destination = site / asset.lstrip("/")
+              destination.parent.mkdir(parents=True, exist_ok=True)
+              urllib.request.urlretrieve(f"{source}{asset}", destination)
+          PY
+
+          for file in index.json hourly.json daily.json monthly.json yearly.json trail_context.json; do
+            curl --fail --location --retry 3 "${SOURCE_URL}/data/${file}" --output "site/data/${file}"
+          done
+          curl --fail --location --retry 3 "${SOURCE_URL}/favicon.svg" --output site/favicon.svg
+          curl --fail --location --retry 3 "${SOURCE_URL}/og.png" --output site/og.png
+
+          python3 - <<'PY'
+          import pathlib
+
+          site = pathlib.Path("site")
+          replacements = {
+              '"/assets/': '"/dec-trail-visitation/assets/',
+              '"/data/': '"/dec-trail-visitation/data/',
+              '"/favicon.svg': '"/dec-trail-visitation/favicon.svg',
+              '"/og.png': '"/dec-trail-visitation/og.png',
+              '"http://localhost:3000/og.png': '"https://ineshv.github.io/dec-trail-visitation/og.png',
+          }
+          for path in site.rglob("*"):
+              if not path.is_file() or path.suffix not in {".html", ".js", ".css"}:
+                  continue
+              text = path.read_text(encoding="utf-8")
+              for old, new in replacements.items():
+                  text = text.replace(old, new)
+              path.write_text(text, encoding="utf-8")
+          (site / ".nojekyll").touch()
+          PY
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload dashboard
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
